@@ -1,4 +1,4 @@
-Logr
+Logr - The Amazing Project
 ====
  - - -
 
